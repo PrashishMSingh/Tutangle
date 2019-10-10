@@ -564,8 +564,8 @@ a{
   padding: 0 11px;
 }
 
-.recent-ul-1 li a, .recent-ul-2 li a, .video-tutorials a{
-  font-size: 12px;
+.recent-ul-1 li a, .recent-ul-2 li a, .video-tutorials li a{
+  font-size: 11px;
   background-size:auto auto;
 }
 
